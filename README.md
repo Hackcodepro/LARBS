@@ -6,7 +6,7 @@ On an Arch-based distribution as root, run the following:
 
 ```
 https://github.com/Hackcodepro/LARBS.git
-cd larbs
+cd LARBS
 sh larbs.sh
 ```
 
