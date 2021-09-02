@@ -5,7 +5,8 @@
 On an Arch-based distribution as root, run the following:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+https://github.com/Hackcodepro/LARBS.git
+cd larbs
 sh larbs.sh
 ```
 
